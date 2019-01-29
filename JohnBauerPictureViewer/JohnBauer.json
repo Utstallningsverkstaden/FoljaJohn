@@ -1,0 +1,12 @@
+{
+	"Settings": [
+		{ "SettingName": "WathcoutIP", "Data": "10.1.1.28" },
+		{ "SettingName": "WatchoutPort", "Data": "8080" },
+		{ "SettingName": "Show1", "Data": "shortFade1" },
+		{ "SettingName": "Que1", "Data": "startTwinkle" },
+		{ "SettingName": "Show2", "Data": "shortFade2" },
+		{ "SettingName": "Que2", "Data": "startSketches" },
+		{ "SettingName": "Que3", "Data": "startPause" },
+		{ "SettingName": "PauseMilliseconds", "Data": "1500" }
+	]
+}

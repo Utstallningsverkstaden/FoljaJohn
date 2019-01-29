@@ -1,0 +1,35 @@
+﻿<Page
+    x:Class="JohnBauerPictureViewer.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:JohnBauerPictureViewer"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Name="Root" Background="Black">
+        <Button Content="Edit content" Name="EditContentButton" Click="EditContentButton_Click"
+                VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,50,0,0"
+                Background="White" Foreground="Black" FontSize="40"
+                BorderBrush="Yellow"
+                />
+        <Button Content="View Search" Name="ViewSearchButton" Click="ViewSearchButton_Click"
+                VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,150,0,0"
+                Background="White" Foreground="Black" FontSize="40"
+                BorderBrush="Yellow"
+                />
+
+        <Button Content="Watchout" Name="WatchoutDashboardButton" Click="WatchoutDashboardButton_Click"
+                VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,250,0,0"
+                Background="White" Foreground="Black" FontSize="40"
+                BorderBrush="Yellow"
+                />
+
+        <Button Content="Production Mode" Name="ProductionModeButton" Click="ProductionModeButton_Click"
+                VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,350,0,0"
+                Background="White" Foreground="Black" FontSize="40"
+                BorderBrush="Yellow"
+                />
+
+    </Grid>
+</Page>

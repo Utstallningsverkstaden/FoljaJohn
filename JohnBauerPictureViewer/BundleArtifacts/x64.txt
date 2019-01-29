@@ -1,0 +1,1 @@
+MainPackage=D:\dev\John Bauer\JohnBauerPictureViewer\bin\x64\Debug\JohnBauerPictureViewer_1.0.10.0_x64_Debug.appx
