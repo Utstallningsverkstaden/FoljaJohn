@@ -1,0 +1,4 @@
+192.168.0.7 3039
+SEND "authenticate 2\m"
+WAIT "Ready \"6.2.2\" \"WATCHPOINT\" \"WATCHPAX\" true"
+SEND "powerDown\m"
