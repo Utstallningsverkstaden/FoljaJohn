@@ -2,7 +2,7 @@
 Tactile, interactive table in Följa John exhibition at Jönköpings läns museum.
 
 ## Included in repository
-Schematic_of_connections.png
+**Schematic_of_connections.png** - systemschema_1-png
 
 **JohnBauerPictureviewer** - Windows app that searches database of PNG-files according to input and presents corresponding PNG-files in a full screen interface. By Spree AB.
 
